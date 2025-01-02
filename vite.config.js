@@ -17,7 +17,7 @@ export default defineConfig({
       ],
     }),
   ],
-  base: '/its-safe-login',
+  base: '/its-saafe-login/',
   resolve: {
     alias: {
       '@src': path.resolve(__dirname, './src'),
